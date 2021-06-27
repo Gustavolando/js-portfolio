@@ -14,3 +14,5 @@ npm install stylus -D
 npm i -g gitmoji-cli
 npm install webpack-dev-server -D
 npm install webpack-bundle-analyzer -D
+  npx webpack --profile --json > stats.json
+  npx webpack-bundle-analyzer stats.json
