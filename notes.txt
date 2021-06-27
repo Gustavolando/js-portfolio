@@ -13,3 +13,4 @@ npm install clean-webpack-plugin -D
 npm install stylus -D
 npm i -g gitmoji-cli
 npm install webpack-dev-server -D
+npm install webpack-bundle-analyzer -D
